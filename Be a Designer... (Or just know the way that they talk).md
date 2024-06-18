@@ -27,3 +27,33 @@ Think of it like this... Cars is an animated movie about talking cars... was des
 		Solutions to the end user's problem.
 	Evaluate
 		Your design against your End User's needs. Testing.
+
+**Five elements of UX design**
+	Steps a designer takes to turn an idea into a working product.
+
+	Strategy
+		Define the user's needs and business objectives.
+	Scope
+		Determine what you are building. You'll decide on features and content to
+		 be included in the product.
+	Structure
+		How you organize your design and how the user's interacts with it.
+	Skeleton
+		Detail how the design works. The user won't see these inner workings.
+	Surface
+		How the product looks to the user.
+
+**Design thinking**
+	A way to create solutions that address a real user problem and are functional and affordable.
+
+	Empathize
+		Discovering what the end users really need. 
+	Define
+		Create a problem statement. Based on user research.
+	Ideate
+		Aim to come up with as many ideas as possible.
+	Prototype
+		Scaled down version of a product that shows important functions.
+	Test
+		Test the prototypes with users. Gives users an opportunity to provide
+		 feedback before the product is built.
