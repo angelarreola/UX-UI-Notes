@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cae083fdb32b5f",
+        "id": "c08668cf8d8969f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d74430efe294dc46",
+            "id": "95c9f0579650727a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of UX-UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5be328e2eb89309f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The common jobs in the UX field..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be0b81807f39a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The common jobs in the UX field..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0afc785bf4c6140e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Users.md",
+                "file": "The Users, NBU and Platforms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Users.md",
+                "file": "The Users, NBU and Platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Users.md",
+                "file": "The Users, NBU and Platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Users.md"
+                "file": "The Users, NBU and Platforms.md"
               }
             }
           }
@@ -183,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0afc785bf4c6140e",
+  "active": "95c9f0579650727a",
   "lastOpenFiles": [
-    "The common jobs in the UX field..md",
-    "The Users.md",
     "Be a Designer... (Or just know the way that they talk).md",
-    "Untitled 1.md",
-    "Fundamentals of UX-UI.md"
+    "The common jobs in the UX field..md",
+    "The Users, NBU and Platforms.md",
+    "Accessibility.md",
+    "Fundamentals of UX-UI.md",
+    "Untitled 1.md"
   ]
 }
