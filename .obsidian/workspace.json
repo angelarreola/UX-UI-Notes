@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52099a3d420f9d8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "94ab83d6d819b033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Sprints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Users, NBU and Platforms.md",
+                "file": "Design Sprints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Users, NBU and Platforms.md",
+                "file": "Design Sprints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Users, NBU and Platforms.md"
+                "file": "Design Sprints.md"
               }
             }
           }
@@ -146,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95c9f0579650727a",
+  "active": "94ab83d6d819b033",
   "lastOpenFiles": [
+    "Design Sprints.md",
     "Be a Designer... (Or just know the way that they talk).md",
     "The common jobs in the UX field..md",
     "The Users, NBU and Platforms.md",
