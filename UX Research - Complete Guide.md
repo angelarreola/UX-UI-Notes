@@ -89,3 +89,31 @@ The deeper we get into a project we've invested in, the harder it is to change c
 **Overcoming**
 - Break down your project into smaller phases
 - Outline points where you can decide whether to continue or stop.
+
+#### **Empathize**
+
+**Empathy**
+The ability to understand someone else's feelings or thoughts in a situation.
+
+**The Importance of Empathy in UX Design**
+- Understanding users' feelings and thoughts through empathy is key to creating great user experiences.
+- Empathetic design leads to products that anticipate and meet users' needs, resulting in higher user satisfaction and engagement.
+
+**How to Empathize with Users**
+- Ask users open-ended questions starting with "what," "how," and "why" to gain insights into their needs and desires.
+- Observe users' interactions with your product, paying attention to their verbal and nonverbal cues to understand their experience fully.
+
+**Empathy vs. Sympathy**
+- While often confused, empathy and sympathy are distinct concepts. Empathy involves understanding and even feeling users' emotions, while sympathy is showing concern without necessarily experiencing those emotions.
+
+##### **Empathy Maps**
+
+**Understanding Empathy Maps**
+- Empathy maps are visual representations of user data, helping UX designers understand user needs and pain points.
+- They break down interview transcripts into digestible pieces, organizing information about what users say, think, do, and feel.
+
+**Building Empathy Maps from Interviews**
+- The reading uses the example of Makayla, a dog owner struggling to find consistent and reliable dog walking services.
+- Through her interview transcript, we learn her needs and frustrations, which are then categorized within the empathy map.
+
+![[Pasted image 20240723002324.png]]
