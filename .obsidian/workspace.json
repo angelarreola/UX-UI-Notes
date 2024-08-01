@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7cbbe1444285c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User Stories and User Journeys - Complete Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Research - Complete Guide.md",
+                "file": "User Stories and User Journeys - Complete Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Research - Complete Guide.md",
+                "file": "User Stories and User Journeys - Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Research - Complete Guide.md"
+                "file": "User Stories and User Journeys - Complete Guide.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e0085d5e3115b9",
+  "active": "b7cbbe1444285c2b",
   "lastOpenFiles": [
-    "The Users, NBU and Platforms.md",
+    "Pasted image 20240731185225.png",
     "UX Research - Complete Guide.md",
+    "User Stories and User Journeys - Complete Guide.md",
+    "The Users, NBU and Platforms.md",
     "img",
     "img/Pasted image 20240723002324.png",
-    "Untitled.md",
     "Accessibility.md",
     "Design Sprints.md",
     "Be a Designer... (Or just know the way that they talk).md",
