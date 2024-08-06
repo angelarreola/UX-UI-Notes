@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f853b524dc28f6",
+        "id": "ffba394795a02f46",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e0085d5e3115b9",
+            "id": "03974421eff9ccc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b7cbbe1444285c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Stories and User Journeys - Complete Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Stories and User Journeys - Complete Guide.md",
+                "file": "UX Research - Complete Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Stories and User Journeys - Complete Guide.md",
+                "file": "UX Research - Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Stories and User Journeys - Complete Guide.md"
+                "file": "UX Research - Complete Guide.md"
               }
             }
           }
@@ -159,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7cbbe1444285c2b",
+  "active": "03974421eff9ccc6",
   "lastOpenFiles": [
-    "Pasted image 20240731185225.png",
-    "UX Research - Complete Guide.md",
+    "Pasted image 20240805232258.png",
     "User Stories and User Journeys - Complete Guide.md",
+    "UX Research - Complete Guide.md",
+    "The Human Factor.md",
+    "Pasted image 20240803162547.png",
+    "Pasted image 20240731185225.png",
     "The Users, NBU and Platforms.md",
     "img",
     "img/Pasted image 20240723002324.png",
