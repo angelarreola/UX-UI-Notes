@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50dc93f59172ed57",
+        "id": "42dc2ba9ae674fce",
         "type": "tabs",
         "children": [
           {
-            "id": "ec133b0a0a223685",
+            "id": "af7674f4cf9e9198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideation - Story Boards & Wireframes.md",
+                "file": "Low-Fidelity Prototypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideation - Story Boards & Wireframes.md",
+                "file": "Low-Fidelity Prototypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideation - Story Boards & Wireframes.md",
+                "file": "Low-Fidelity Prototypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideation - Story Boards & Wireframes.md"
+                "file": "Low-Fidelity Prototypes.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec133b0a0a223685",
+  "active": "af7674f4cf9e9198",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Gestalt Principles.md",
+    "Low-Fidelity Prototypes.md",
+    "Information Architecture & Paper Wireframes.md",
+    "img/Pasted image 20240824141039.png",
     "Ideation - Story Boards & Wireframes.md",
     "img/Pasted image 20240812135359.png",
     "img/Pasted image 20240812131839.png",
