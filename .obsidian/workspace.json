@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73dcfb4679db352e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deceptive Patterns & Battle for Attention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low-Fidelity Prototypes.md",
+                "file": "Deceptive Patterns & Battle for Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low-Fidelity Prototypes.md",
+                "file": "Deceptive Patterns & Battle for Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low-Fidelity Prototypes.md"
+                "file": "Deceptive Patterns & Battle for Attention.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7674f4cf9e9198",
+  "active": "73dcfb4679db352e",
   "lastOpenFiles": [
-    "Gestalt Principles.md",
     "Low-Fidelity Prototypes.md",
+    "Deceptive Patterns & Battle for Attention.md",
+    "Gestalt Principles.md",
     "Information Architecture & Paper Wireframes.md",
     "img/Pasted image 20240824141039.png",
     "Ideation - Story Boards & Wireframes.md",
