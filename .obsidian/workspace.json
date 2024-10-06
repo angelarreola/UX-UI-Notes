@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "42dc2ba9ae674fce",
+        "id": "68aeac6437660944",
         "type": "tabs",
         "children": [
           {
-            "id": "af7674f4cf9e9198",
+            "id": "ecea4f42b20ea32a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Low-Fidelity Prototypes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73dcfb4679db352e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deceptive Patterns & Battle for Attention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deceptive Patterns & Battle for Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deceptive Patterns & Battle for Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deceptive Patterns & Battle for Attention.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,30 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73dcfb4679db352e",
+  "active": "ecea4f42b20ea32a",
   "lastOpenFiles": [
-    "Low-Fidelity Prototypes.md",
-    "Deceptive Patterns & Battle for Attention.md",
-    "Gestalt Principles.md",
-    "Information Architecture & Paper Wireframes.md",
+    "Fundamentals of UX-UI.md",
+    "img/Pasted image 20240723002324.png",
+    "Low-Fi Prototypes/Deceptive Patterns & Battle for Attention.md",
+    "Low-Fi Prototypes/Accessibility.md",
+    "Fundamentals/Be a Designer... (Or just know the way that they talk).md",
+    "Fundamentals/Design Sprints.md",
+    "Fundamentals/The common jobs in the UX field..md",
+    "Fundamentals/User Stories and User Journeys - Complete Guide.md",
+    "Fundamentals/UX Research - Complete Guide.md",
+    "Fundamentals/The Users, NBU and Platforms.md",
+    "Fundamentals/The Human Factor.md",
+    "Low-Fi Prototypes/Low-Fidelity Prototypes.md",
+    "Low-Fi Prototypes/Information Architecture & Paper Wireframes.md",
+    "Fundamentals/Ideation - Story Boards & Wireframes.md",
+    "Fundamentals",
+    "Low-Fi Prototypes/Gestalt Principles.md",
+    "UX Research/Research Presentation.md",
+    "Low-Fi Prototypes",
+    "UX Research/Usability Studies.md",
+    "UX Research/How make UX Research.md",
+    "Untitled.md",
+    "UX Research",
     "img/Pasted image 20240824141039.png",
-    "Ideation - Story Boards & Wireframes.md",
     "img/Pasted image 20240812135359.png",
     "img/Pasted image 20240812131839.png",
-    "Accessibility.md",
-    "UX Research - Complete Guide.md",
     "img/Pasted image 20240803162547.png",
     "img/Pasted image 20240805232258.png",
     "img/Pasted image 20240731185225.png",
-    "Fundamentals of UX-UI.md",
-    "User Stories and User Journeys - Complete Guide.md",
-    "The Human Factor.md",
-    "The Users, NBU and Platforms.md",
     "img",
-    "img/Pasted image 20240723002324.png",
-    "Design Sprints.md",
-    "Be a Designer... (Or just know the way that they talk).md",
-    "The common jobs in the UX field..md",
     "Untitled 1.md"
   ]
 }
