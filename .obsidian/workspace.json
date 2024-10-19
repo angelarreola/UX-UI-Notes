@@ -11,11 +11,28 @@
             "id": "ecea4f42b20ea32a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Why we need UX-UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de5a7c83ff9f0a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High-Fi Prototypes/Typography.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "High-Fi Prototypes/Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "High-Fi Prototypes/Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "High-Fi Prototypes/Typography.md"
+              }
             }
           }
         ]
@@ -138,9 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecea4f42b20ea32a",
+  "active": "de5a7c83ff9f0a1e",
   "lastOpenFiles": [
-    "Fundamentals of UX-UI.md",
+    "img/Pasted image 20241019012921.png",
+    "High-Fi Prototypes/From Sketches to Digital Design.md",
+    "High-Fi Prototypes/Typography.md",
+    "Untitled.md",
+    "img/Pasted image 20241019011930.png",
+    "Why we need UX-UI.md",
+    "High-Fi Prototypes",
     "img/Pasted image 20240723002324.png",
     "Low-Fi Prototypes/Deceptive Patterns & Battle for Attention.md",
     "Low-Fi Prototypes/Accessibility.md",
@@ -160,7 +187,6 @@
     "Low-Fi Prototypes",
     "UX Research/Usability Studies.md",
     "UX Research/How make UX Research.md",
-    "Untitled.md",
     "UX Research",
     "img/Pasted image 20240824141039.png",
     "img/Pasted image 20240812135359.png",
