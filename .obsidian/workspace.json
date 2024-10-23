@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c274855591a06fc1",
+        "id": "a805487be5fec70c",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7d97fc01fd2c0a",
+            "id": "537286ea33b4daba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High-Fi Prototypes/Design Systems.md",
+                "file": "High-Fi Prototypes/Design Critique Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Systems"
+              "title": "Design Critique Session"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High-Fi Prototypes/Layouts, Grids & Containment.md",
+                "file": "High-Fi Prototypes/Design Critique Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Layouts, Grids & Containment"
+              "title": "Backlinks for Design Critique Session"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High-Fi Prototypes/Layouts, Grids & Containment.md"
+                "file": "High-Fi Prototypes/Design Critique Session.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Layouts, Grids & Containment"
+              "title": "Outline of Design Critique Session"
             }
           }
         ]
@@ -162,10 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7d97fc01fd2c0a",
+  "active": "537286ea33b4daba",
   "lastOpenFiles": [
-    "High-Fi Prototypes/Gestalt principles, again..md",
+    "Untitled.md",
+    "High-Fi Prototypes/Design Critique Session.md",
+    "img/Pasted image 20241022153915.png",
+    "High-Fi Prototypes/Give and Receive Feedback.md",
+    "img/Pasted image 20241022012958.png",
+    "img/Pasted image 20241022012806.png",
     "High-Fi Prototypes/Design Systems.md",
+    "High-Fi Prototypes/Gestalt principles, again..md",
     "High-Fi Prototypes/Scale & Proportion ~ Unity & Variety.md",
     "High-Fi Prototypes/Emphasis & Hierarchy.md",
     "High-Fi Prototypes/Spacing - White Space.md",
@@ -177,14 +183,12 @@
     "img/Pasted image 20241020030506.png",
     "High-Fi Prototypes/Iconography & Visual Design.md",
     "High-Fi Prototypes/Color.md",
-    "Untitled.md",
     "Why we need UX-UI.md",
     "img/Pasted image 20241019012921.png",
     "High-Fi Prototypes/From Sketches to Digital Design.md",
     "High-Fi Prototypes/Typography.md",
     "img/Pasted image 20241019011930.png",
     "High-Fi Prototypes",
-    "img/Pasted image 20240723002324.png",
     "Low-Fi Prototypes/Deceptive Patterns & Battle for Attention.md",
     "Low-Fi Prototypes/Accessibility.md",
     "Fundamentals/Be a Designer... (Or just know the way that they talk).md",
@@ -196,14 +200,9 @@
     "Fundamentals/The Human Factor.md",
     "Low-Fi Prototypes/Low-Fidelity Prototypes.md",
     "Low-Fi Prototypes/Information Architecture & Paper Wireframes.md",
-    "Fundamentals/Ideation - Story Boards & Wireframes.md",
     "Fundamentals",
-    "Low-Fi Prototypes/Gestalt Principles.md",
-    "UX Research/Research Presentation.md",
     "Low-Fi Prototypes",
     "UX Research",
-    "img/Pasted image 20240824141039.png",
-    "img/Pasted image 20240812135359.png",
     "img"
   ]
 }
