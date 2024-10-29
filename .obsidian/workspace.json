@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High-Fi Prototypes/Design Critique Session.md",
+                "file": "High-Fi Prototypes/High Fidelity Prototype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Critique Session"
+              "title": "High Fidelity Prototype"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "537286ea33b4daba",
   "lastOpenFiles": [
-    "Untitled.md",
+    "img/Pasted image 20241029001039.png",
+    "img/Pasted image 20241029000852.png",
     "High-Fi Prototypes/Design Critique Session.md",
+    "High-Fi Prototypes/High Fidelity Prototype.md",
+    "Untitled.md",
     "img/Pasted image 20241022153915.png",
     "High-Fi Prototypes/Give and Receive Feedback.md",
     "img/Pasted image 20241022012958.png",
@@ -187,7 +190,6 @@
     "img/Pasted image 20241019012921.png",
     "High-Fi Prototypes/From Sketches to Digital Design.md",
     "High-Fi Prototypes/Typography.md",
-    "img/Pasted image 20241019011930.png",
     "High-Fi Prototypes",
     "Low-Fi Prototypes/Deceptive Patterns & Battle for Attention.md",
     "Low-Fi Prototypes/Accessibility.md",
@@ -199,7 +201,6 @@
     "Fundamentals/The Users, NBU and Platforms.md",
     "Fundamentals/The Human Factor.md",
     "Low-Fi Prototypes/Low-Fidelity Prototypes.md",
-    "Low-Fi Prototypes/Information Architecture & Paper Wireframes.md",
     "Fundamentals",
     "Low-Fi Prototypes",
     "UX Research",
